@@ -5,6 +5,5 @@ var Grub = function() {
 };
 
 Grub.prototype.eat = function() {
-  console.log('Yum! Jelly!!! I, a Grub, sure do looooove jelly!');
+  console.log('Yum! Jelly!!! I sure do looooove jelly!');
 };
-
